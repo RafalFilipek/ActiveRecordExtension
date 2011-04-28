@@ -3,8 +3,6 @@ PHP-ActiveRecord Extension
 
 PHP-ActiveRecord Extension provieds easy integration with [PHP-ActiveRecord](https://github.com/kla/php-activerecord) for easy database access.
 
----
-
 Parameters
 ----------
 
@@ -16,8 +14,6 @@ Parameters
     * `oci://username:passsword@localhost/xe`
 * *ar.default_connection* - default models connection.
 
----
-
 Installation
 ------------ 
     cd /path/to/your/project
@@ -28,8 +24,6 @@ Installation
     git clone https://RafalFilipek@github.com/RafalFilipek/ActiveRecordExtension.git
     cd ..
     mkdir Models
-
----
 
 Registering
 -----------
@@ -46,8 +40,6 @@ Registering
     		)
     	)
     );
-
----
 
 Usage
 -----
